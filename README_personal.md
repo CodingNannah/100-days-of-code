@@ -19,8 +19,10 @@ OR one (1) JS MERN/similar project each week to two weeks (1 to 2 weeks).
 to my appropriate Github repository
 ## Committing Log Daily (Mon - Sat)
 to this branch, showing what I've worked on
+###UPDATE: not committing to log daily. Project work commits suffice.
 ## Connecting with Others 
 via the 100 Days of Coding Discord
+###UPDATE: Discord channel is not moderated. Disgusting porn ads. Reported to Discord, and I left the Channel.
 
 ## NOTE: 
 After this round, I will reevaluate where I am on my coding journey and probably do this again with my own projects.
